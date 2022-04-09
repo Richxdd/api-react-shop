@@ -19,6 +19,7 @@ const whitelist = [
   'http://localhost:8080',
   'http://localhost:3000',
   'https://www.reactshop.xyz',
+  'https://reactshop-next.vercel.app',
 ];
 const options = {
   origin: (origin, callback) => {
